@@ -55,6 +55,6 @@ lazy val resolversSettings = Seq(
 
 lazy val libsSettings = Seq(
   "org.typelevel" %% "cats-core"     % "2.6.1",
-  "org.typelevel" %% "cats-effect"   % "3.2.8",
+  "org.typelevel" %% "cats-effect"   % "2.5.4",
   "org.scalameta" %% "munit"         % "0.7.29" % Test
 )
